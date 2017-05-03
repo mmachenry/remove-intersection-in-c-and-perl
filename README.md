@@ -1,10 +1,11 @@
-# remove-intersection-in-c-and-perl
+remove-intersection in C and Perl
+----
 A program to compute set difference of two sets of integers written simultaneously in C and Perl.
 
 This program accepts two sets of integers as comma separated lists. It will
-compute the set difference for both. The first set without the elements from
-the second set is printed on the first line of the output. The second minus the
-first is printed on the next line.
+compute the set difference in both directions. The first set without the
+elements from the second set is printed on the first line of the output. The
+second minus the first is printed on the next line.
 
 To run this as a C program
 ----
