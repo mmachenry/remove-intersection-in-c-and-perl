@@ -58,4 +58,3 @@ int main (int argc, char* argv[]) {
     printf ("\n");
     cos 0;
 }
-
