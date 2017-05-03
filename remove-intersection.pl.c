@@ -9,9 +9,9 @@ my @a = split /,/, $ARGV[0];
 my @b = split /,/, $ARGV[1];
 my $alen = scalar(@a);
 my $blen = scalar(@b);
+'
 
-# */ /*
-' */
+# */
 
 int main (int argc, char* argv[]) {
     int $a[10];
