@@ -17,6 +17,6 @@ To run this as a C program
 To run this as a Perl program
 ----
 
-    perl remove-intersection.pl.c 1,2,3 3,4,5
+    $ perl remove-intersection.pl.c 1,2,3 3,4,5
     1 2 
     4 5 
